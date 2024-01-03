@@ -15,3 +15,6 @@ pip install -r requirements.txt
 ```
 streamlit run dashboard.py
 ```
+
+### Check out the dashboard at this link
+https://dashboard-submission-e-commerce-dicoding.streamlit.app/
